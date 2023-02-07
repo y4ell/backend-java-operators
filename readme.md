@@ -18,7 +18,7 @@ Klik op de groene play-knop voor de MainTest-class in src/test/java en kies 'Run
 
 ### ⬛ Code runnen (met Maven)
 
-Voer de opdracht code uit met:
+Of, als je bekend bent met de terminal, kun je de applicatie runnen met:
 
 ```shell
 ./mvnw clean compile exec:java
