@@ -4,11 +4,11 @@
 
 Je gaat operators gebruiken om waardes te muteren! Je zult waardes gaan optellen, aftrekken, door elkaar delen en met elkaar vergelijken. In de `Main`-class zul je een hoop declaraties en toewijzingen vinden. Welke operators kunnen we gebruiken om alles te laten kloppen?
 
+Je kunt deze opdracht maken door het project te clonen of te downloaden naar jouw eigen computer via deze GitHub repository. De uitwerkingen staan op de branch _uitwerkingen_.
+
 ## Voor je begint
 
 Je hebt IntelliJ IDEA en de JDK (Java Development Kit) versie 17 of hoger nodig - deze heb je beiden via de instructies op EdHub geïnstalleerd.
-
-Je kunt deze opdracht maken door het project te clonen of te downloaden naar jouw eigen computer via deze GitHub repository. De uitwerkingen staan op de branch _uitwerkingen_.
 
 ### 🟩 Code runnen (vanuit IntelliJ)
 Klik op de groene play-knop voor de main-methode en kies 'Run...'.
