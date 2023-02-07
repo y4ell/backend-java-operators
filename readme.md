@@ -10,13 +10,13 @@ Je hebt IntelliJ IDEA en de JDK (Java Development Kit) versie 17 of hoger nodig 
 
 Je kunt deze opdracht maken door het project te clonen of te downloaden naar jouw eigen computer via deze GitHub repository. De uitwerkingen staan op de branch _uitwerkingen_.
 
-### Code runnen (vanuit IntelliJ)
+### 🟩 Code runnen (vanuit IntelliJ)
 Klik op de groene play-knop voor de main-methode en kies 'Run...'.
 
-### Testen uitvoeren (vanuit IntelliJ)
+### 🟨 Testen uitvoeren (vanuit IntelliJ)
 Klik op de groene play-knop voor de MainTest-class in src/test/java en kies 'Run 'MainTest''.
 
-### Code runnen (met Maven)
+### ⬛ Code runnen (met Maven)
 
 Voer de opdracht code uit met:
 
